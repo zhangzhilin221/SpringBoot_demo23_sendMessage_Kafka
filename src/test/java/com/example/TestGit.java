@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("hot-fix new");
+        System.out.println("hot-fix new codes");
     }
 }
