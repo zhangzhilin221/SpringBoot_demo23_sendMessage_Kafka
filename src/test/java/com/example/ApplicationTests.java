@@ -9,6 +9,7 @@ class ApplicationTests {
     @Test
     void testGit() {
         System.out.println("idea third commit!");
+        System.out.println("master new codes");
     }
 
 }
