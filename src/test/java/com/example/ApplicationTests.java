@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ApplicationTests {
 
     @Test
-    void contextLoads() {
+    void testGit() {
+        System.out.println("idea second commit!");
     }
 
 }
