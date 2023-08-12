@@ -8,6 +8,9 @@ class ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 
 }
