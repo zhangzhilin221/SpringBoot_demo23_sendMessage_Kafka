@@ -1,0 +1,10 @@
+#spring:
+#  rabbitmq:
+#    host: localhost
+#    port: 5672
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+#    指定消费者组名(自定义)
+    consumer:
+      group-id: group_order
