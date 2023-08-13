@@ -10,5 +10,7 @@ public class TestGit {
         System.out.println("push test!");
         System.out.println("push test!");
         System.out.println("push test!");
+        System.out.println("github test!");
+        System.out.println("github test!");
     }
 }
